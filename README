@@ -1,0 +1,23 @@
+### Snippet Manager
+
+This is a simple Browser extension that allows you to store and manage text snippets.
+
+#### Features
+- Add new snippets with titles and content.
+- View and copy existing snippets.
+- Store snippets in the browser's local storage.
+
+#### Installation
+### Chrome
+1. Clone the repository.
+2. Open Chrome (or any Chromium-based browser) and navigate to chrome://extensions.
+3. Enable "Developer mode" in the top right corner.
+4. Click "Load unpacked."
+5. Select the cloned repository folder.
+
+### Firefox
+1. Clone the repository.
+2. Open Firefox and navigate to about:debugging
+3. Click "This Firefox" (or "This Nightly" if you're using Firefox Nightly).
+4. Click "Load Temporary Add-on."
+5. Select the `manifest.json` file from the repository.
